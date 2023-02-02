@@ -8,7 +8,7 @@
   <img align="center" alt="Batista-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Batista-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Batista-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Batista-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/C4D03AQEkzhQS62lqZA/profile-displayphoto-shrink_800_800/0/1654381355063?e=1680739200&v=beta&t=XLLF-UNgjTv3uRFKRuvjt_6Q4Bh1EKkfgqQFS7zP-pI">
+  <img align="right" alt="Batista-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1070521251132620801/1070531617124257802/profile-pic.png?width=468&height=468">
 </div>
 
   ##
