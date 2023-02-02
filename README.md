@@ -1,8 +1,6 @@
 ### Heeey! 👋
 ### Eu sou o Batista!
 
-Here are some ideas to get you started:
-
 - 💼 Hoje trabalho como Desenvolvedor Web
 - 📘 Cursando Análise e Desenvolvimento de Sistemas
 - 📗 Estudando NodeJS
