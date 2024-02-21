@@ -1,7 +1,7 @@
 ### Heeey! 👋 
 ### Eu sou o Batista!
 
-- 💼 Hoje trabalho como Desenvolvedor Web
+- 💼 Hoje trabalho como Desenvolvedor Front-End
 - 📘 Cursando Análise e Desenvolvimento de Sistemas
 
 <div style="display: inline_block"><br>
