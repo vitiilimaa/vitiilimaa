@@ -15,7 +15,6 @@
   <img align="center" alt="Batista-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> 
   <img align="center" alt="Batista-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"> 
   <img align="center" alt="Batista-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
-  <img align="right" alt="Batista-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1070521251132620801/1070532818876252220/profile-pic-removebg-preview.png?width=468&height=468">
 </div>
 
   ##
