@@ -4,7 +4,8 @@
 💼 Hoje atuo como Desenvolvedor Front-End  
 💻 Trabalho com diversas tecnologias, mas destaco o Next, React e TypeScript como preferência
 
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,7 +24,7 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-  ##
+##
 
 <div> 
   <a href="https://vitordesenvolvedor.com.br/" target="_blank"><img src="https://img.shields.io/badge/portfolio-0b0000?style=for-the-badge&logo=codementor&logoColor=white"/></a>
