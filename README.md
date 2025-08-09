@@ -1,8 +1,8 @@
 ### Heeey! 👋 
 ### Eu sou o Vitor!
 
-💼 Hoje atuo como Desenvolvedor Front-End  
-💻 Trabalho com diversas tecnologias, mas destaco o Next, React e TypeScript como preferência
+💼 Hoje atuo como Desenvolvedor Web
+💻 Trabalho com diversas tecnologias, mas destaco o Next, React, TypeScript e Node.js como preferência
 
 <br />
 <div style="display: inline_block">
