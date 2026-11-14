@@ -50,14 +50,14 @@ Uso IA no dia a dia de desenvolvimento com Claude Code e integro a Claude API a 
 
 | Quando | Onde | Destaques |
 |:--|:--|:--|
-| 2025 – hoje | **Forza Clubes**<br/>Desenvolvedor Web Pleno | Next.js, TypeScript, Chakra UI e C# |
-| 2024 – 2025 | **Techlise**<br/>Estágio → Front-end → Desenvolvedor Web | Plataforma médica, Kanban com dnd-kit, app de chamadas com WebRTC + Socket.io e notificações push, e sistema de etiquetas DataMatrix com Node.js, Sequelize e Redis |
-| 2024 – 2025 | **Freelancer** | Site da ILG Comex, site bilíngue com carrosséis 3D para a equipe de e-sports BloodHunts Gaming e site para a MClass Massoterapia |
-| 2022 – 2023 | **AVMB Soluções em TI**<br/>Estágio | Portais web, app mobile em React Native e treinamento de novos estagiários |
+| 2025 - hoje | **Forza Clubes**<br/>Desenvolvedor Web Pleno | Next.js, TypeScript, Chakra UI e C# |
+| 2024 - 2025 | **Techlise**<br/>Estágio → Front-end → Desenvolvedor Web | Plataforma médica, Kanban com dnd-kit, app de chamadas com WebRTC + Socket.io e notificações push, e sistema de etiquetas DataMatrix com Node.js, Sequelize e Redis |
+| 2024 - 2025 | **Freelancer** | Site da ILG Comex, site bilíngue com carrosséis 3D para a equipe de e-sports BloodHunts Gaming e site para a MClass Massoterapia |
+| 2022 - 2023 | **AVMB Soluções em TI**<br/>Estágio | Portais web, app mobile em React Native e treinamento de novos estagiários |
 
 🎓 &nbsp;**Formação**<br/>
-Bacharelado em Ciência da Computação · Cruzeiro do Sul Virtual · 2026 – 2028 (em andamento)<br/>
-Análise e Desenvolvimento de Sistemas · UniCesumar · 2022 – 2025
+Bacharelado em Ciência da Computação · Cruzeiro do Sul Virtual · 2026 - 2028 (em andamento)<br/>
+Análise e Desenvolvimento de Sistemas · UniCesumar · 2022 - 2025
 
 &nbsp;
 
@@ -71,8 +71,8 @@ I've also built interfaces with React and Next.js, REST APIs with Node.js, Expre
 
 **In production:** [ILG Comex](https://www.ilgcomex.com), a corporate website focused on SEO and performance, with shipment tracking (DHL, FedEx and UPS) and leads sent straight to the Bitrix CRM. After launch, lead generation and closed deals grew 40%.
 
-**Experience:** Forza Clubes (2025 – now) · Techlise (2024 – 2025: healthcare platform, WebRTC + Socket.io calling app, DataMatrix label system with Node.js, Sequelize and Redis) · Freelance (2024 – 2025: ILG Comex, a bilingual website for the BloodHunts Gaming e-sports team and a website for MClass Massoterapia) · AVMB (2022 – 2023, internship)
+**Experience:** Forza Clubes (2025 - now) · Techlise (2024 - 2025: healthcare platform, WebRTC + Socket.io calling app, DataMatrix label system with Node.js, Sequelize and Redis) · Freelance (2024 - 2025: ILG Comex, a bilingual website for the BloodHunts Gaming e-sports team and a website for MClass Massoterapia) · AVMB (2022 - 2023, internship)
 
-**Education:** B.Sc. in Computer Science, Cruzeiro do Sul Virtual (2026 – 2028, in progress) · Systems Analysis and Development, UniCesumar (2022 – 2025)
+**Education:** B.Sc. in Computer Science, Cruzeiro do Sul Virtual (2026 - 2028, in progress) · Systems Analysis and Development, UniCesumar (2022 - 2025)
 
 </details>
