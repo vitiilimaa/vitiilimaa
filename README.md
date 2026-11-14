@@ -5,10 +5,9 @@
 <a href="https://www.linkedin.com/in/dev-batista/"><img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iI2ZmZmYwMCI%2BPHBhdGggZD0iTTAgMS4xNDZDMCAuNTEzLjUyNiAwIDEuMTc1IDBoMTMuNjVDMTUuNDc0IDAgMTYgLjUxMyAxNiAxLjE0NnYxMy43MDhjMCAuNjMzLS41MjYgMS4xNDYtMS4xNzUgMS4xNDZIMS4xNzVDLjUyNiAxNiAwIDE1LjQ4NyAwIDE0Ljg1NHptNC45NDMgMTIuMjQ4VjYuMTY5SDIuNTQydjcuMjI1em0tMS4yLTguMjEyYy44MzcgMCAxLjM1OC0uNTU0IDEuMzU4LTEuMjQ4LS4wMTUtLjcwOS0uNTItMS4yNDgtMS4zNDItMS4yNDhTMi40IDMuMjI2IDIuNCAzLjkzNGMwIC42OTQuNTIxIDEuMjQ4IDEuMzI3IDEuMjQ4em00LjkwOCA4LjIxMlY5LjM1OWMwLS4yMTYuMDE2LS40MzIuMDgtLjU4Ni4xNzMtLjQzMS41NjgtLjg3OCAxLjIzMi0uODc4Ljg2OSAwIDEuMjE2LjY2MiAxLjIxNiAxLjYzNHYzLjg2NWgyLjQwMVY5LjI1YzAtMi4yMi0xLjE4NC0zLjI1Mi0yLjc2NC0zLjI1Mi0xLjI3NCAwLTEuODQ1LjctMi4xNjUgMS4xOTN2LjAyNWgtLjAxNmwuMDE2LS4wMjVWNi4xNjloLTIuNGMuMDMuNjc4IDAgNy4yMjUgMCA3LjIyNXoiLz48L3N2Zz4=" alt="LinkedIn" /></a>
 <a href="https://www.vitordesenvolvedor.com.br/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-121212?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjUwIDIwIDQwMCA0NzAiPjxwYXRoIGZpbGw9IiNmZWZlZmUiIGQ9Ik02MSAzMGg5MWw4OSAyMjAtNDEgOTh6TTM2NCAzMGg3OUwyOTUgMzc3aC04NHoiLz48Y2lyY2xlIGN4PSIyNTIiIGN5PSI0NDEiIHI9IjM0IiBmaWxsPSIjZmVmZjAwIi8%2BPC9zdmc%2B" alt="Portfólio" /></a>
 <a href="https://www.instagram.com/vitordesenvolvedor/"><img src="https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=ffff00" alt="Instagram" /></a>
+<br/><br/>
 
 </div>
-
-&nbsp;
 
 ## 👋 &nbsp;Sobre mim
 
@@ -50,7 +49,7 @@ Uso IA no dia a dia de desenvolvimento com Claude Code e integro a Claude API a 
 
 | Quando | Onde | Destaques |
 |:--|:--|:--|
-| 2025 - hoje | **Forza Clubes**<br/>Desenvolvedor Web Pleno | Next.js, TypeScript, Chakra UI e C# |
+| 2025 - hoje | **Forza Clubes**<br/>Desenvolvedor Web Pleno | Versão web, construída do zero, do sistema desktop de gestão para clubes sociais e associações: front-end com Next.js e Chakra UI, suporte ao back-end em C# e cadastro de usuários otimizado de 32 s para 1 s |
 | 2024 - 2025 | **Techlise**<br/>Estágio → Front-end → Desenvolvedor Web | Plataforma médica, Kanban com dnd-kit, app de chamadas com WebRTC + Socket.io e notificações push, e sistema de etiquetas DataMatrix com Node.js, Sequelize e Redis |
 | 2024 - 2025 | **Freelancer** | Site da ILG Comex, site bilíngue com carrosséis 3D para a equipe de e-sports BloodHunts Gaming e site para a MClass Massoterapia |
 | 2022 - 2023 | **AVMB Soluções em TI**<br/>Estágio | Portais web, app mobile em React Native e treinamento de novos estagiários |
@@ -71,7 +70,7 @@ I've also built interfaces with React and Next.js, REST APIs with Node.js, Expre
 
 **In production:** [ILG Comex](https://www.ilgcomex.com), a corporate website focused on SEO and performance, with shipment tracking (DHL, FedEx and UPS) and leads sent straight to the Bitrix CRM. After launch, lead generation and closed deals grew 40%.
 
-**Experience:** Forza Clubes (2025 - now) · Techlise (2024 - 2025: healthcare platform, WebRTC + Socket.io calling app, DataMatrix label system with Node.js, Sequelize and Redis) · Freelance (2024 - 2025: ILG Comex, a bilingual website for the BloodHunts Gaming e-sports team and a website for MClass Massoterapia) · AVMB (2022 - 2023, internship)
+**Experience:** Forza Clubes (2025 - now: web version, built from scratch, of a desktop management system for social clubs and associations; Next.js and Chakra UI front end, C# back-end support, user registration cut from 32 s to 1 s) · Techlise (2024 - 2025: healthcare platform, WebRTC + Socket.io calling app, DataMatrix label system with Node.js, Sequelize and Redis) · Freelance (2024 - 2025: ILG Comex, a bilingual website for the BloodHunts Gaming e-sports team and a website for MClass Massoterapia) · AVMB (2022 - 2023, internship)
 
 **Education:** B.Sc. in Computer Science, Cruzeiro do Sul Virtual (2026 - 2028, in progress) · Systems Analysis and Development, UniCesumar (2022 - 2025)
 
